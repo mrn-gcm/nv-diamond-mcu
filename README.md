@@ -11,3 +11,5 @@ The control of the RF signal required the DDS AD9834 (Analog Devices)
 
 
 
+The code to control the AD4351 module is readapted from a code written by Alain Fort. The original code can be downloaded here: http://f6kbf.free.fr/html/ADF4351%20and%20Arduino_Fr_Gb.htm
+
