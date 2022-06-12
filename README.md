@@ -15,7 +15,7 @@ The following devices are required to correctly operate the setup.
 https://github.com/F1CJN/ARDUINO-ADF4351
 http://f6kbf.free.fr/html/ADF4351%20and%20Arduino_Fr_Gb.htm
 - The code to control the AD9834 module with the Arduino Uno microcontroller is readapted from:
-          -- The AN-1070 APPLICATION NOTE (Analog Devices) titled "Programming the AD9833/AD9834" by by Liam Riordan
-          -- The AD9833 Waveform Module vwlowen.co.uk 
+          - The AN-1070 APPLICATION NOTE (Analog Devices) titled "Programming the AD9833/AD9834" by by Liam Riordan
+          - The AD9833 Waveform Module vwlowen.co.uk 
 
 
