@@ -15,7 +15,7 @@ The following devices are required to correctly operate the setup.
 https://github.com/F1CJN/ARDUINO-ADF4351
 http://f6kbf.free.fr/html/ADF4351%20and%20Arduino_Fr_Gb.htm
 
-- The evalution board software to calculate the registers for the AD4351 initialization can be downloaded here
+- The software to calculate the registers for the AD4351 initialization can be downloaded here
 https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-adf4351.html#eb-relatedsoftware
 
 - The code to control the AD9834 module with the Arduino Uno microcontroller is readapted from:
