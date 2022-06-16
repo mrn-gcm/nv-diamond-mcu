@@ -1,7 +1,7 @@
 // Pulsed magnetic resonance of NV centers in diamond with a microcontroller
-// By Giacomo Mariani, June 2022
+// By Giacomo Mariani. Last update: June 2022
 // Code for Arduino Uno board to measure the Rabi oscillations of the electron spin with a double driving of MW and RF signals
-// Comment the specific TAU lines to operate or not operate the RF signal 
+// Note: Comment the specific TAU lines to operate or not operate the RF signal 
 
 #include <util/delay.h> 
 #include <SPI.h>
