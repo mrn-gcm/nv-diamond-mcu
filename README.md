@@ -17,12 +17,9 @@ The following devices are required to correctly operate the setup.
           <br/>- http://f6kbf.free.fr/html/ADF4351%20and%20Arduino_Fr_Gb.htm
 
 - The software to calculate the registers for the AD4351 initialization can be downloaded here
-
           <br/>https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-adf4351.html#eb-relatedsoftware
 
 - The code to control the AD9834 module with the Arduino Uno microcontroller is readapted from:
-
-
           <br/>- The AN-1070 APPLICATION NOTE (Analog Devices) titled "Programming the AD9833/AD9834" by by Liam Riordan
           <br/>- The "AD9833 Waveform Module vwlowen.co.uk" code
 
