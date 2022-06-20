@@ -11,6 +11,8 @@ The following devices are required to correctly operate the setup.
 - Switched integrator: IVC102 (Texas Instruments)
 - The control of the RF signal requires the DDS AD9834 (Analog Devices)
 
+The repositories are available at https://doi.org/10.5281/zenodo.6657225
+
 ## References
 - The code to control the AD4351 module with the Arduino Uno microcontroller is readapted from a code written by Alain Fort F1CJN. The original code can be downloaded here: 
           <br/>- https://github.com/F1CJN/ARDUINO-ADF4351
