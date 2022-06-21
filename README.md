@@ -5,6 +5,10 @@
 This repository provides the code to operate a microntroller-based portable setup to analyze nitrogen-vacancy (NV) centers in diamond. The electron spin state of NV centers is initialized by optical pulses from a laser diode and manipulated by microwave (MW) pulses. The photoluminescence from NV centers is detected by a photodiode, converted in voltage which is read by the ADC of the microcontroller. The microcontroller generates the TTL pulses to create laser and microwave pulses.
 
 By Giacomo Mariani
+
+## How to cite
+
+
 ## Hardware requirements
 The following devices are required to correctly operate the setup.
 
