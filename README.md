@@ -1,4 +1,4 @@
-# Microcontroller-based portable setup to measure NV centers in diamond
+# Microcontroller-based setup to measure NV centers in diamond
 
 [![DOI](https://zenodo.org/badge/458715954.svg)](https://zenodo.org/badge/latestdoi/458715954)
 
