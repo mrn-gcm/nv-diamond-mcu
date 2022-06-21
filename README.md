@@ -19,7 +19,7 @@ The following devices are required to correctly operate the setup.
 
 ## Code and software
 
-- The repositories are available at https://doi.org/10.5281/zenodo.6657225
+- All the versions of the software are available at https://doi.org/10.5281/zenodo.6657225
 - The code was wirtten ans tested with the setup by using the open-source Arduino Software (IDE) ver. 1.8.13
 
 ## References
