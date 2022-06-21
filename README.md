@@ -1,3 +1,4 @@
+# A home-made portable device based on Arduino Uno for pulsed magnetic resonance of NV centers in diamond
 
 [![DOI](https://zenodo.org/badge/458715954.svg)](https://zenodo.org/badge/latestdoi/458715954)
 
