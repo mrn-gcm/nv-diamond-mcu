@@ -7,6 +7,7 @@ By Giacomo Mariani
 
 ## How to cite
 
+Mariani, G., Umemoto, A., & Nomura, S. (2022). A home-made portable device based on Arduino Uno for pulsed magnetic resonance of NV centers in diamond. AIP Advances, 12(6), 065321.
 
 ## Hardware requirements
 The following devices are required to correctly operate the setup.
