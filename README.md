@@ -21,7 +21,7 @@ The following devices are required to correctly operate the setup.
 ## Code and software
 
 - All the versions of the software are available at https://doi.org/10.5281/zenodo.6657225
-- The code was wirtten and tested with the setup by using the open-source Arduino Software (IDE) ver. 1.8.13
+- The code was written and tested with the setup by using the open-source Arduino Software (IDE) ver. 1.8.13
 
 ## References
 - The code to control the AD4351 module with the Arduino Uno microcontroller is readapted from a code written by Alain Fort F1CJN. The original code can be downloaded here: 
